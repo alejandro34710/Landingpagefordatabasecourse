@@ -1,7 +1,7 @@
 
-  # Landing Page for Database Course
+  # DiseñoLanding
 
-  This is a code bundle for Landing Page for Database Course. The original project is available at https://www.figma.com/design/gGNQ6ecRdeOtnTqnctH8vu/Landing-Page-for-Database-Course.
+  This is a code bundle for DiseñoLanding. The original project is available at https://www.figma.com/design/gGNQ6ecRdeOtnTqnctH8vu/Dise%C3%B1oLanding.
 
   ## Running the code
 
